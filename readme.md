@@ -1,3 +1,5 @@
+## Automated AWS cloud infrastructure with Terraform
+
 1. Created a vpc
 2. Created Internet Gateway
 3. Created Custom Route Table
