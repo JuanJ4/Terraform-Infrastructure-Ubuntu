@@ -1,4 +1,4 @@
-## Automated AWS cloud infrastructure with Terraform
+## Automated AWS Cloud Infrastructure With Terraform
 
 1. Created a VPC
 2. Created Internet Gateway
