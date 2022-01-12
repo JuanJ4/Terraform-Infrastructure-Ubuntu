@@ -1,8 +1,8 @@
 ### Automated AWS Cloud Infrastructure With Terraform
 
 1. Created a VPC
-2. Created Internet Gateway
-3. Created Custom Route Table
+2. Created a Internet Gateway
+3. Created a Custom Route Table
 4. Created a Subnet
 5. Associated Subnet with Route Table
 6. Created Security Group to allow port 22,80,443 (SSH, HTTP, HTTPS)
